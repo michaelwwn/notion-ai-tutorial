@@ -1,0 +1,3 @@
+# Build Notion AI with pgvector in 10 Minutes
+Notion AI is something our team uses day-to-day to extract answers from a team's knowledge base quickly. In this step-by-step tutorial, we'll create your own Notion AI-like RAG (Retrieval-Augmented Generation) agent using Postgres and Python. This guide assumes basic familiarity with Python, databases, and Docker, but we'll walk through everything so you can set it up in under 10 minutes.
+You are at the starter template for this tutorial. Follow the instruction in the [My Medium Article](https://medium.com/@wwn.michael/build-notion-ai-with-pgvector-in-10-minutes-a47cb6ac2678).
